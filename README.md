@@ -8,6 +8,6 @@
 
 程序 [daniwell](https://twitter.com/daniwell_aidn) / [狐笋开源社区](https://github.com/oruyanke)
 
-素材整理 [章宛枫](https://space.bilibili.com/12766841) / Bakashi / [离子](https://twitter.com/lonely_ion)
+素材整理 [章宛枫](https://space.bilibili.com/12766841) / [Bakashi](https://twitter.com/ChefBakashi) / [离子](https://twitter.com/lonely_ion)
 
 灵感来源 [Mikutap](https://aidn.jp/mikutap/) / [Patatap](http://patatap.com/)
