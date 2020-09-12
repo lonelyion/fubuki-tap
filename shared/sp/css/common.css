@@ -121,7 +121,7 @@ legend {
 .default,
 body,
 html {
-    font-family: "游ゴシック", "Yu Gothic", "游ゴシック体", YuGothic, "Yu Gothic UI", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Meiryo UI", "メイリオ", Meiryo, sans-serif;
+    font-family: Roboto,-apple-system,Helvetica Neue,Helvetica,Arial,sans-serif
     letter-spacing: .2rem;
     line-height: 1.5;
     -webkit-text-size-adjust: 100%
