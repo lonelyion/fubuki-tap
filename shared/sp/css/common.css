@@ -121,7 +121,7 @@ legend {
 .default,
 body,
 html {
-    font-family: Roboto,-apple-system,Helvetica Neue,Helvetica,Arial,sans-serif
+    font-family: Roboto,-apple-system,Helvetica Neue,Helvetica,Arial,sans-serif;
     letter-spacing: .2rem;
     line-height: 1.5;
     -webkit-text-size-adjust: 100%
@@ -137,7 +137,7 @@ a,
 body,
 html {
     -webkit-tap-highlight-color: transparent;
-    tap-highlight-color: transparent
+    tap-highlight-color: transparent;
 }
 
 a:link,
